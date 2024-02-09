@@ -1,1 +1,1 @@
-# Sanofi-POC
+# My Gen AI 
